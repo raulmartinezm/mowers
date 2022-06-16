@@ -1,33 +1,8 @@
 Mowers Challenge
 ================
 
-|PyPI| |Status| |Python Version| |License|
-
-|Read the Docs| |Tests| |Codecov|
-
 |pre-commit| |Black|
 
-.. |PyPI| image:: https://img.shields.io/pypi/v/seat-code-mowers.svg
-   :target: https://pypi.org/project/seat-code-mowers/
-   :alt: PyPI
-.. |Status| image:: https://img.shields.io/pypi/status/seat-code-mowers.svg
-   :target: https://pypi.org/project/seat-code-mowers/
-   :alt: Status
-.. |Python Version| image:: https://img.shields.io/pypi/pyversions/seat-code-mowers
-   :target: https://pypi.org/project/seat-code-mowers
-   :alt: Python Version
-.. |License| image:: https://img.shields.io/pypi/l/seat-code-mowers
-   :target: https://opensource.org/licenses/MIT
-   :alt: License
-.. |Read the Docs| image:: https://img.shields.io/readthedocs/seat-code-mowers/latest.svg?label=Read%20the%20Docs
-   :target: https://seat-code-mowers.readthedocs.io/
-   :alt: Read the documentation at https://seat-code-mowers.readthedocs.io/
-.. |Tests| image:: https://github.com/raulmartinezm/seat-code-mowers/workflows/Tests/badge.svg
-   :target: https://github.com/raulmartinezm/seat-code-mowers/actions?workflow=Tests
-   :alt: Tests
-.. |Codecov| image:: https://codecov.io/gh/raulmartinezm/seat-code-mowers/branch/main/graph/badge.svg
-   :target: https://codecov.io/gh/raulmartinezm/seat-code-mowers
-   :alt: Codecov
 .. |pre-commit| image:: https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white
    :target: https://github.com/pre-commit/pre-commit
    :alt: pre-commit
